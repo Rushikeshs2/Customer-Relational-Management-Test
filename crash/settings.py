@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'crash.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'DEMO_TEST',
+        'NAME': 'postgres',
         'USER': 'postgres',
-        'PASSWORD':'Rushi@2000',
-        'HOST':'localhost','*',
+        'PASSWORD':'8wG3stjKVu',
+        'HOST':'*',
         'PORT':'5432',
     }
 }
