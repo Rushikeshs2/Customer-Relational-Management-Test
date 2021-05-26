@@ -1,4 +1,7 @@
 # Customer-Relational-Management-Test
+Hosted on zeet.co Link-
+https://rushikeshs2-crm.zeet.app
+
 
 Note:-
 I have used Postgresql database so to run this project you have to write your postgresql username and password in settings.py 
